@@ -1,5 +1,6 @@
-h1, p {
+h1 {
   text-align: center;
+  line-height: 10px; 
 }
 
 h4 {
@@ -31,6 +32,7 @@ body {
 
 .professional-exp {
   text-align: center;
+  line-height: 10px; 
   font-weight: 900;
   text-transform: uppercase;
   border-top: 1px solid #FCF3CF;

@@ -1,0 +1,42 @@
+h1, p {
+  text-align: center;
+}
+
+h4 {
+  line-height: 15px;
+  font-weight: 900;
+}
+
+h5{
+  line-height: 15px;
+}
+
+h6{
+  line-height: 15px;
+}
+
+p, li {
+  font-size: 12px;
+  line-height: 20px;
+}
+
+
+body {
+  background-color: #7D6608;
+  color: #FCF3CF;
+  font-family: Andale Mono, monospace;
+  margin: 10% 20%;
+  line-height: 10px; 
+}
+
+.professional-exp {
+  text-align: center;
+  font-weight: 900;
+  text-transform: uppercase;
+  border-top: 1px solid #FCF3CF;
+  border-bottom: 1px solid #FCF3CF; 
+}
+
+i {
+  text-align: center;
+}
